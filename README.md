@@ -140,3 +140,7 @@ The framework integrates multiple data sources collected between 2010 and 2019.
 * Plotly
 * Streamlit
 * NetworkX
+
+## License
+
+This repository is intended for academic and research purposes. Please cite the work appropriately if used in publications or derivative research
