@@ -140,14 +140,3 @@ The framework integrates multiple data sources collected between 2010 and 2019.
 * Plotly
 * Streamlit
 * NetworkX
-
----
-
-## Future Work
-
-* Dynamic graph learning
-* Mobility-aware forecasting
-* Transformer-based spatio-temporal models
-* Explainable AI for epidemiological forecasting
-* Real-time surveillance systems
-* Multi-disease forecasting
